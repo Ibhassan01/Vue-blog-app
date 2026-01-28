@@ -65,7 +65,3 @@ async fetchPosts() {
 - Vue Router 4
 - Vite
 - Native CSS
-
-## License
-
-MIT
